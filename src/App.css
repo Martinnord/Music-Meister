@@ -1,0 +1,13 @@
+body {
+  background-color: #121315;
+  color: #fff;
+}
+
+.app {
+  text-align: center;
+  padding: 5%;
+}
+
+.title {
+  font-size: 30px;
+}
